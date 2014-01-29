@@ -2,3 +2,9 @@
 2) created a file in it
 3) Adding this new repo as a submodule of the old repo
 4) Lets see what happens
+
+
+
+5) Now only sync'ed the submodule from somewhere else
+6) Making updates
+7) pushing them.

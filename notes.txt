@@ -1,0 +1,4 @@
+1) created a fresh new repository
+2) created a file in it
+3) Adding this new repo as a submodule of the old repo
+4) Lets see what happens
